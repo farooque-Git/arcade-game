@@ -43,19 +43,28 @@ const Header = ({ cartItem }) => {
               </li>
 
               <li>
-                <a href="#" class="social-link">
+                <a
+                  href="https://x.com/snippet_ai?t=CocAeGGpSWARDNoWHdbFrQ&s=09"
+                  class="social-link"
+                >
                   <FaTwitter />
                 </a>
               </li>
 
               <li>
-                <a href="#" class="social-link">
+                <a
+                  href="https://www.facebook.com/md.farooque.10"
+                  class="social-link"
+                >
                   <FaFacebook />{" "}
                 </a>
               </li>
 
               <li>
-                <a href="#" class="social-link">
+                <a
+                  href="https://www.linkedin.com/in/farooque-ali-9547b2272/"
+                  class="social-link"
+                >
                   <FaLinkedin />
                 </a>
               </li>

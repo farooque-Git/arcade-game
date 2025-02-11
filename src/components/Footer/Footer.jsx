@@ -33,9 +33,7 @@ const Footer = () => {
                   <ImLocation2 />
                 </div>
 
-                <address class="item-text">
-                  Address : PO Box W75 Street lan West new queens
-                </address>
+                <address class="item-text">Address : Jharkhand, INDIA</address>
               </li>
 
               <li class="contact-item">
@@ -139,7 +137,7 @@ const Footer = () => {
               <ul class="social-list">
                 <li className="linkrow">
                   <a
-                    href="#"
+                    href="https://www.facebook.com/md.farooque.10"
                     class="social-link"
                     style={{ backgroundColor: "#3b5998" }}
                   >
@@ -149,7 +147,8 @@ const Footer = () => {
 
                 <li>
                   <a
-                    href="#"
+                  href="https://x.com/snippet_ai?t=CocAeGGpSWARDNoWHdbFrQ&s=09"
+                   
                     class="social-link"
                     style={{ backgroundColor: "#55acee" }}
                   >
@@ -169,7 +168,7 @@ const Footer = () => {
 
                 <li>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/farooque-ali-9547b2272/"
                     class="social-link"
                     style={{ backgroundColor: "#1565c0" }}
                   >
