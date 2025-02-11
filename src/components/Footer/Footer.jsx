@@ -44,7 +44,7 @@ const Footer = () => {
                 </div>
 
                 <a href="tel:+241245654235" class="item-text">
-                  Phone : +24 1245 654 235
+                  Phone : +91 7004624454
                 </a>
               </li>
 
@@ -54,7 +54,7 @@ const Footer = () => {
                 </div>
 
                 <a href="mailto:info@exemple.com" class="item-text">
-                  Email : info@exemple.com
+                  Email : farooque.reactjs@gmail.com
                 </a>
               </li>
             </ul>
